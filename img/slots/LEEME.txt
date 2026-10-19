@@ -1,1 +1,0 @@
-Deja aquí las imágenes nuevas con el código del cuadro: p2.webp, t3.webp, i2.webp, p4.webp (también .png o .jpg). Aparecen solas en el sitio. Ver LEEME.md en la raíz.
