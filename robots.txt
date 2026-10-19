@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /fr/partenaires.html
+Disallow: /en/partenaires.html
+Disallow: /es/partenaires.html
+# Sustituir DOMINIO-PENDIENTE por el dominio real cuando se conozca:
+Sitemap: https://DOMINIO-PENDIENTE/sitemap.xml
